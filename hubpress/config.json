@@ -4,7 +4,18 @@
     "repositoryName": "blog",
     "branch": "gh-pages"
   },
+  "site": {
+    "title": "Anand J | Blog",
+    "postsPerPage": "10"
+  },
+  "socialnetwork": {
+    "email": "anandjagadeesh@computer.org",
+    "twitter": "ebtanand",
+    "linkedin": "http://in.linkedin.com/in/anandjagadeesh",
+    "facebook": "anand.the.dragon",
+    "github": "anandjagadeesh"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "ghostium"
   }
 }
