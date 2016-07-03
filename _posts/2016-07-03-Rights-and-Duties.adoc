@@ -2,4 +2,6 @@
 
 "I have the right to.." Yes of course you have the right to do a lot of things. But did you ever bother about your duties?
 image::http://github.com/anandjagadeesh/blog/images/rdarticle/rd1.jpg[]
-In newspapers these days, there will be atleast one news regarding a violation of right or its 
+In newspapers these days, there will be atleast one news regarding a violation of right or its exercise. But a news about somebody doing their duty is hardly seen in these papers. I am writing this article with no intention to hurt anyone. All I want to is to do is to remind atleast one or two people who read my post about the importance of duties. Let me quote an example. Suppose an official is dismissed from his office. Thousands of trade unions, federations and NGO's will announce strike to put him back in the position. But noone will ever announce a strike for him not doing his duty, putting blame on the system and yes, that bloody word, corruption.
+
+I believe that corruption is not an error in the system (like a kernel compilation error), rather it is what a certain group of people induced in the system (just like we make syntactical errors). But the important thing to be noted is that the user(you know whom I refer to) will never allow the compiler to report
