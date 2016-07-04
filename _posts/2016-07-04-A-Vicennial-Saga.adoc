@@ -1,5 +1,7 @@
 = A Vicennial Saga
 
+image::http://www.captcha.net/images/recaptcha-example.gif[]
+
 “Prove that you are not a robot”. Do you recognise this scentence. Yes, it is the same line of text preceeding an image with distrorted text, graphics or connective logic followed by a text input box. All of us might have encountered this one when bowsing sites, submitting forms or atleast while creating email accounts. We are talking about the great CAPTCHA.
 
 == Defining an Automated Turing Test
