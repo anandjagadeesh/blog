@@ -4,13 +4,13 @@ image::http://www.captcha.net/images/recaptcha-example.gif[]
 
 “Prove that you are not a robot”. Do you recognise this scentence. Yes, it is the same line of text preceeding an image with distrorted text, graphics or connective logic followed by a text input box. All of us might have encountered this one when bowsing sites, submitting forms or atleast while creating email accounts. We are talking about the great CAPTCHA.
 
-== Defining an Automated Turing Test
+=== Defining an Automated Turing Test
 
 The official site www.captcha.net defines a CAPTCHA as “a program that protects websites against bots by generating and grading tests that humans can pass but current computer programs cannot”. The name CAPTCHA is an acronym for Completely Automated Public Turing test to tell Computers and Humans Apart coined by Luis von Ahn, Manuel Blum, Nicholas J. Hopper, and John Langford. The CAPTCHA is a type of challenge response test used in computing to determine whether or not the user is human the most common type being invented in 1997 by Mark D. Lillibridge, Martin Abadi, Krishna Bharat, and Andrei Z. Broder. This form of CAPTCHA requires that the user type the letters of a distorted image, sometimes with the addition of an obscured sequence of letters or digits that appears on the screen. A user have to spend about an average of 10 seconds to solve a CAPTCHA. The test is normally administered by a computing system.
 
 The discussions about inventing methods to make text illegible to computers were first done in order to transfer sensitive information across computer networks and mail servers. They used combinations of symbols like $ for S and @ for A. The topic gained importance when bots or automated programs, that were used to perform certain activities of which some had malicious intentions, came into being. Think of a situation where the automated codes creating fake emails and spamming, participating in online polls and also bypassing password authentications thereby compromising a system's security. The technology of CAPTCHA was invented to prevent any unwanted “bots” from getting into parts of the Internet that they shouldn’t be in. The CAPTCHA used images or text that where distorted in some manner so that bots can never read or track the text or words in the images, while any average human being can. In 2009, Google purchased CAPTCHA which they refined and renamed as reCAPTCHA and is currently available on their site.
 
-== Technology Advances
+=== Technology Advances
 
 CAPTCHA is a great security feature that ruled the website security standard for a long time. Before moving into WWW or What Went Wrong, we will discuss about a new technology. The Google Maps is one of the most user friendly and user recommended product from Google. The Maps uses many algorithms to make sure the user gets all the information about the location he is searching for. Google recently launched the Google Street View, an extention to the map that help the users to view the locations in 360 degrees as if they were physically present there.
 
@@ -18,7 +18,7 @@ The scientists at the Google's development centers recently deviced algorithms t
 
 Both the algorithms are currently kept locked by the respective owners. But think of a situation when the products from these companies that might use these algorithms are reverse engineered by expert hackers with time. Then the systems that were once protected from spamming bots and malicious automated worms will become vulnerable. The organizations like Google are currently working on newer technologies that can improve upon or replace the reCAPTCHA.
 
-== New Thinking, New Possibilities
+=== New Thinking, New Possibilities
 
 The  reCAPTCHA team currently released newer version called Squigl-Pix. The algorithm supplies three images and one question. The user have to draw a line or circle one of the images answering the task specified. A second one is the Esp-Pix. This gives the user a set of images and asks them what category they fall into. A lot of similar algorithms are proposed by various organizations and security firms in order to strenghthen internet security. Many of them might replace the two decade long saga of security that the CAPTCHA provided, atleast till someone figure out an algorithm to break them too.
 
