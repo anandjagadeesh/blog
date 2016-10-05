@@ -6,7 +6,8 @@
   },
   "site": {
     "title": "Anand J | Blog",
-    "postsPerPage": "10"
+    "postsPerPage": "10",
+    "disqus": "anandblog"
   },
   "socialnetwork": {
     "email": "anandjagadeesh@computer.org",
