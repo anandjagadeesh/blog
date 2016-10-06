@@ -1,0 +1,19 @@
+= How I Cracked My First Interview : The Ten Principles I Followed
+
+I attended the placement drive by Tata Consultancy Services on the 21st and 22nd of September, 2016 at my college, Federal Institute of Science And Technology (FISAT), Angamaly. I received mails and messages that asked me what they asked me during the Personal Interview. So, I thought I have to share the Ten Principles (of course, there are many principles that I used. But since it is a common thing that everyone posts "The ten things I did..", I just adopted the same thing.. :-) ) that helped me crack my First Interview.
+
+== The TCS Selection Process
+
+Before I begin, let me give a brief introduction to the process of campus placements that TCS followed in our campus. A student have to go through six stages. First is just the basic eligibility criteria, 60% (6.5 CGPA) in B. Tech., XII and X and only one standing backlog. Second the Aptitude Test. Luckily, I had CGPA above 8.1 and so, I was in the Aptitude Test exemption category. Third, the Verbal Test. I cleared it. If you are a good coder, attend Code Vita and be in the top 1500 and you don't have to write the verbal too. The fourth one is the Technical Interview Round, fifth, the Managerial Interview Round and the sixth, the HR Interview Round. And if you clear all this, you'll get an offer letter. Yippiee..!!
+
+== The Ten Principles
+
+Ok. So, let me start. Some of these sound like what your teachers and trainers tell you. But yaar, it works.
+
+==== 1. Be Confident
+
+This is the first rule. If you prepare too much, you'll ruin the interview. You are superb. And better than thousands out there. So. Be confident. You are fit for the job. Don't let it slip away.
+
+==== 2. Be Truthful
+
+Always tell the truth. If you are lying, you will get caught somewhere or the other. 
