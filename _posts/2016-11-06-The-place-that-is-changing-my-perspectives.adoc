@@ -1,6 +1,6 @@
 = The place that is changing my perspectives
 
-I want to share the news that I joined a prestegious group two weeks back. And I also want to share the experience I had there for the past few days, which of course is the best I ever had in FISAT. I joined the High Performance Computing Research group of FISAT two weeks before, which comes under the Centre for High Performance Computing (CHPC) under the Department of Computer Science and Engineering (DoCSE). The group is mentored by Mr. Mahesh C., Assistant Professor in DoCSE. Let me share what I experienced.
+I want to share the news that I joined a prestegious group two weeks back. And I also want to share the experience I had there for the past few days, which of course is the best I ever had in FISAT. I joined the High Performance Computing Research group of FISAT two weeks before, which comes under the Centre for High Performance Computing (CHPC) under the Department of Computer Science and Engineering (DoCSE). The group is mentored by Mr. Mahesh C., Assistant Professor in DoCSE.
 
 ==== How it all started..
 
