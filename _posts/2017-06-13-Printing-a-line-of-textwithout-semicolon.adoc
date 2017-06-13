@@ -1,0 +1,18 @@
+= Printing_a_line_of_text(without semicolon);
+
+I could work as a content writer for a couple of newsletters during my college life and also helped friends in coding. I like debugging a lot. Well I wanted to share a couple of common programming language related questions that I saw in some popular sites.
+
+*"Printing a line of text without semicolon"* is a very famous question. I came across this question around 20 to 25 times. Some of my friends asked the same question. So here is the code solution to this one:
+
+ /* Programming Language is C       // #1
+    Author: Anand J                 // #2
+ */                                 // #3
+ #include<stdio.h>                  // #4
+ void main()                        // #5
+ {                                  // #6
+ 	if(printf("Hello, I print this line without semicolon\n")){}    // #7
+ }                                  // #8
+ 
+Well, let me explain this code for those people who are confused of what happens in this code.
+
+So, lines marked #1 to #6 and #8 does not need explaination if you know the C programming language's general syntax. Even the line marked #7 is a small manipulation of the general syntax of *if*. if() denotes a condition statement, that evaluates to true if the statement given in the paranthesis evaluates to true, else, if() evaluates to false. printf() is a function that prints the argument passed to it(let us keep it simple here). Hence it evaluates to true if it has an argument and if() also evaluates to true. Hence the if part is executed and it has no statement. This code hence prints the message without any semicolons. (Go to http://alvand.basu.ac.ir/~dezfoulian/files/Programming/Prentice%20Hall%20-%20The%20C%20Programming%20Language-%20Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie,%202nd%20ed.,%20ISBN%20.pdf  for a pdf version of the text to learn C programming language. I found this online.)
