@@ -1,4 +1,4 @@
-= Printing_a_line_of_text(without_semicolon);
+= Printing a line of text without sem;colon
 
 I could work as a content writer for a couple of newsletters during my college life and also helped friends in coding. I like debugging a lot. Well I wanted to share a couple of common programming language related questions that I saw in some popular sites.
 
