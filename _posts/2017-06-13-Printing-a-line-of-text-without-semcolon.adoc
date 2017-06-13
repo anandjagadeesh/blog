@@ -2,7 +2,9 @@
 
 I could work as a content writer for a couple of newsletters during my college life and also helped friends in coding. I like debugging a lot. Well I wanted to share a couple of common programming language related questions that I saw in some popular sites.
 
-*"Printing a line of text without semicolon"* is a very famous question. I came across this question around 20 to 25 times. Some of my friends asked the same question. So here is the code solution to this one:
+*"Printing a line of text without semicolon"* is a very famous question.
+image:http://www.buymyshirt.ca/wp-content/uploads/2015/08/semicolon-watercolour-feature-600x600.jpg[]
+I came across this question around 20 to 25 times. Some of my friends asked the same question. So here is the code solution to this one:
 
  /* Programming Language is C       // #1
     Author: Anand J                 // #2
