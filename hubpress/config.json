@@ -6,6 +6,8 @@
   },
   "site": {
     "title": "Tuning Forks",
+    "description": "",
+    "logo": "https://raw.githubusercontent.com/anandjagadeesh/anandjagadeesh.github.io/master/site/images/aj.jpg",
     "postsPerPage": "10",
     "disqus": "anandblog"
   },
