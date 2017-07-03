@@ -22,7 +22,7 @@ There are plenty of options. So, what will go wrong? No standard input format fo
 
  p=input("Please enter your DoB in the format dd/mm/yyyy here: ")
 
-This sounds better. No? This helps the user to enter the DoB in a specific format and also the programmer to code to identify only one format. Noticed the polite language in the question. It matters a lot. When forms are not used, we need to interact with the used in natural scentences so that the user feels its easy to understand the way the program works. For example, we can provide localizations. It will help the end user to work with the program with more ease.
+This sounds better. No? This helps the user to enter the DoB in a specific format and also the programmer to code to identify only one format. Noticed the polite language in the question. It matters a lot. When forms are not used, we need to interact with the user in natural scentences so that the user feels its easy to understand the way the program works. For example, we can provide localizations. It will help the end user to work with the program with more ease.
 
 Modern era computing is focussing on computing systems that is able to interact with a human as if it too is a real human. Natural interaction, is what they call this. The beauty of programming lies in 3 factors: (1) proper syntax, (2) proper documentation and (3) proper user interfacing and outputs. Writing good programs is a need. Writing good programs that has a better interface so that the user is able to exploit the programs full potential is also a need.
 
