@@ -22,4 +22,19 @@ There are plenty of options. So, what will go wrong? No standard input format fo
 
  p=input("Please enter your DoB in the format dd/mm/yyyy here: ")
 
-This sounds better. No? This helps the user to enter the DoB in a specific format and also the programmer to code to identify only one format.
+This sounds better. No? This helps the user to enter the DoB in a specific format and also the programmer to code to identify only one format. Noticed the polite language in the question. It matters a lot. When forms are not used, we need to interact with the used in natural scentences so that the user feels its easy to understand the way the program works. For example, we can provide localizations. It will help the end user to work with the program with more ease.
+
+Modern era computing is focussing on computing systems that is able to interact with a human as if it too is a real human. Natural interaction, is what they call this. The beauty of programming lies in 3 factors: (1) proper syntax, (2) proper documentation and (3) proper user interfacing and outputs. Writing good programs is a need. Writing good programs that has a better interface so that the user is able to exploit the programs full potential is also a need.
+
+====== How?
+There are a hell lot of points to mention. But here are a few important ones:
+
+1. *Observe*: Observe the world. Observe how things work. Observe how people interact. Observe how good conversations happen.
+2. *Perspectives*: Find out the different perspectives of the same thing and work out the correct one that suits the situation. Each user thinks diffrently and consider all possible ways before you proceed.
+3. *Simple*: Make things as simple as possible. Explain it to a layman. If he understands the thing, you just made the best solution.
+4. *For them*: Make the solution for the end user and not for you. Interfaces are for the end-user. Make sure the end user is able to understand and use it.
+
+ Footnote:
+ These days, all this will be taken care of by the UI or UX designers
+ and the coders do not have to worry much. But the API you provide
+ must be understood by the UI/UX Designer. Think about it!
