@@ -1,4 +1,4 @@
-= The user friendly computer programs.
+= The user-friendly computer programs.
 
 Writing computer programs is not speaking in a different language that only a programmer and a computer understands. It is, in fact, instructing a computer to do the tasks, for the end user, the way the end user wants it to happen. So, writing computer programs is not about just writing pieces of codes and running them. We need to make sure that the interfaces are easily understood by the person who use it. A good interface makes it easy for the end user to work with, but collects all relevant information required for the processing, without making the process too complicated.
 
