@@ -1,3 +1,5 @@
 = The user friendly computer programs.
 
-Writing computer programs is not speaking in a different language that only a programmer and a computer understands. It is, in fact, instructing a computer that speaks a different language to speak in human identifiable language and do what is required. And programmer, can be related to the translator sitting between two important people, the computer that does the work and the 
+Writing computer programs is not speaking in a different language that only a programmer and a computer understands. It is, in fact, instructing a computer to do the tasks, for the end user, the way the end user wants it to happen. So, writing computer programs is not about just writing pieces of codes and running them. We need to make sure that the interfaces are easily understood by the person who use it. A good interface makes it easy for the end user to work with, but collects all relevant information required for the processing, without making the process too complicated.
+
+A good example to start with would be a program that accepts the date of birth and prints the day alone. Let the python code be:
