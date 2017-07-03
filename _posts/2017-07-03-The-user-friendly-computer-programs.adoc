@@ -26,7 +26,7 @@ This sounds better. No? This helps the user to enter the DoB in a specific forma
 
 Modern era computing is focussing on computing systems that is able to interact with a human as if it too is a real human. Natural interaction, is what they call this. The beauty of programming lies in 3 factors: (1) proper syntax, (2) proper documentation and (3) proper user interfacing and outputs. Writing good programs is a need. Writing good programs that has a better interface so that the user is able to exploit the programs full potential is also a need.
 
-====== How?
+==== How?
 There are a hell lot of points to mention. But here are a few important ones:
 
 1. *Observe*: Observe the world. Observe how things work. Observe how people interact. Observe how good conversations happen.
