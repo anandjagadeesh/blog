@@ -1,0 +1,3 @@
+= The user friendly computer programs.
+
+Writing computer programs is not speaking in a different language that only a programmer and a computer understands. It is, in fact, instructing a computer that speaks a different language to speak in human identifiable language and do what is required. And programmer, can be related to the translator sitting between two important people, the computer that does the work and the 
