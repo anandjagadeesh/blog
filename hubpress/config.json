@@ -5,8 +5,8 @@
     "branch": "gh-pages"
   },
   "site": {
-    "title": "; | ~(.)",
-    "description": "(semicolon or not period)",
+    "title": "; | ~[.]",
+    "description": "Semicolon or Not Period",
     "logo": "https://raw.githubusercontent.com/anandjagadeesh/anandjagadeesh.github.io/master/site/images/aj.jpg",
     "cover": "",
     "postsPerPage": "500",
