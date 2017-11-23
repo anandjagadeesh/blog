@@ -1,4 +1,4 @@
-= A Stupid's Guide to Explaining Concepts
+= A Idiot's Guide for Explaining Things
 
  On how to understand and explain the "things" in a simple way!
 
@@ -12,4 +12,11 @@ I would like to explain it with an example. Let's take the example of the princi
 
 Oh God! This is one hell of a simple theory part in computer networks. I tried explaining this in an interview. I started of well, but it didn't end up well. Then I found out a story, the idiot's version of this to tackle the boring theory. The next paragraph is the "method of cuento" version of routing. I used this explaination in many places and it worked! *Caution: This is not in the Examination point-of-view. There you have to write the first version. Otherwise, you will lose marks!!!*
 
-*The Idiot's Version a.k.a the "Method Of Cuento" version:* Let me tell you a story! We found a book last week in our classroom and the name "Anjali(just another random name)" was written on it. It seems someone accidently left it there. Suppose we don't know if we have an "Anjali" in our class. We will call out that name to find out if someone responds. If someone responds, then, that is her, ask her if she lost any books recently and return if it is her book. If she didn't lose a book or if no "Anjali" is there in this class, what will we do? We will have some connections, friends in other classes, na, they can be nicknamed the routers. We will ask 
+*The Idiot's Version a.k.a the "Method Of Cuento" version:* __Let me tell you a story! We found a book last week in our classroom and the name "Anjali(just another random name)" was written on it. It seems someone accidently left it there. Suppose we don't know if we have an "Anjali" in our class. We will call out that name to find out if someone responds. If someone responds, then, that is her, ask her if she lost any books recently and return if it is her book. If she didn't lose a book or if no "Anjali" is there in this class, what will we do? We will have some connections, friends in other classes, na, they can be nicknamed the routers. We will ask them if they know an "Anjali" in their class. If there is one, we will ask them to check if that girl in their class lost a book recently and do this till we find the intended recepient. Then we will give it to that friend in that specific class to give it to her as he will say, "Give it to me bro, I will give it to her!". And we will wait till she send her acknowledgements and gratitude back through the friend. "A new connection is established" [and grin innocently!]... (You can make more interesting stories)__
+
+This is one way of explaining things. And it is damn simple one too. This is a really helpful and interesting way to present answers to the technical questions in a non technical way. This will help you show two main things to the person who asked you the question.
+
+1. That you understood what routing is.
+2. That you are able to explain it to any person. Even a non-technical person.
+
+But let me remind you one more thing! Make sure you don't use it during a very very serious interview. If you see that the interviewer don't like this kind of answers, don't lose your chance to get a job! Revert to the theoretical way of answering!
