@@ -1,9 +1,15 @@
-= A Stupid's Guide to Learning Concepts
+= A Stupid's Guide to Explaining Concepts
 
- On how to understand and remember the "things"
+ On how to understand and explain the "things" in a simple way!
 
 This might sound odd but we are taught concepts in school but not how to learn them. It is sad that people have good IQ still find it difficult to learn concepts. I am not any educationist. Don't mistake me to be one. I am just another graduate. Nothing more than that. I just wanted to share my view on how to learn things. :-)
 
 The problem is not the problem itself. The problem is how you view the problem. The concepts are simple to learn. The problem is how we approach it. Let me just tell you a trick, that I believe, would help some. The method, that I proudly call *"the method of cuento(story)"*. ;-)
 
-I would like to explain it with an example. Let's take the example of the principle of routing packets. Simple routing would do. 
+I would like to explain it with an example. Let's take the example of the principle of routing in computer networks because I am a software engineer. I won't complicate it. To send data from a computer in one local area network to another computer in another network, the packet needs to be routed from one network to another. A router is the device that does this by receiving the packet from one network, forwarding it to the intended network. Next paragraph is the theory. Non-Computer-Guys, please skip it.
+
+*The Actual Routing Theory:* __The networks are interconnected using a device called the router. The router has ports connected to diffrent networks and each port takes an IP address corresponding to the network it is connected to. When a packet is to be sent to another computer, the ARP request is sent, the MAC address of the destination machine is got in the response if the machine is in the same network and data is sent. If the machine is in a different network, none of the machines in the network responds to the ARP requests. Instead, the routers in that network check their routing tables and if they can forward, they will respond with their MAC Address for the ARP request. Then they receive the packet and then forward it to the relevant port... (the explaination continues...)__
+
+Oh God! This is one hell of a simple theory part in computer networks. I tried explaining this in an interview. I started of well, but it didn't end up well. Then I found out a story, the idiot's version of this to tackle the boring theory. The next paragraph is the "method of cuento" version of routing. I used this explaination in many places and it worked! *Caution: This is not in the Examination point-of-view. There you have to write the first version. Otherwise, you will lose marks!!!*
+
+*The Idiot's Version a.k.a the "Method Of Cuento" version:* Let me tell you a story! We found a book last week in our classroom and the name "Anjali(just another random name)" was written on it. It seems someone accidently left it there. Suppose we don't know if we have an "Anjali" in our class. We will call out that name to find out if someone responds. If someone responds, then, that is her, ask her if she lost any books recently and return if it is her book. If she didn't lose a book or if no "Anjali" is there in this class, what will we do? We will have some connections, friends in other classes, na, they can be nicknamed the routers. We will ask 
