@@ -7,16 +7,16 @@
   "site": {
     "title": "S E M I C O L O N",
     "description": "\"The author could have ended the sentence.. But then he chose not to..!\"",
-    "logo": "https://raw.githubusercontent.com/anandjagadeesh/anandjagadeesh.github.io/master/site/images/Semicolon.jpg",
-    "cover": "",
+    "logo": "https://raw.githubusercontent.com/anandjagadeesh/website_backup/master/SITE/img/Semicolon.jpg",
+    "cover": "https://raw.githubusercontent.com/anandjagadeesh/website_backup/master/SITE/img/intro-bg.jpg",
     "postsPerPage": "500",
     "disqus": "anandblog"
   },
   "socialnetwork": {
-    "email": "",
+    "email": "mail@anandj.xyz",
     "twitter": "",
-    "googleplus": "",
-    "linkedin": "",
+    "googleplus": "https://www.anandj.xyz",
+    "linkedin": "https://in.linkedin.com/in/anandjagadeesh",
     "facebook": "",
     "github": ""
   },
