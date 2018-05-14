@@ -10,7 +10,7 @@ We are moving into an era where robots are getting employed in almost all fields
 
 They say there were cases where a driverless or autonomous car stopped at a green light, running a red light and suddenly changed lanes without much reason.And the scientists were not able to identify or correctly determine the reason.The things is, the car's processing microcode and training sets arrived at a conclusion to stop even after seeing a green light due to some error or because the results of the computation provided the solution for current situation as "stop". But what if there was some actual reason that we didn't know about. This can only be determined by checking logs in a system. But most of the modern systems use unsupervised deep learning techniques where most of the programmers won't be knowing how the system arrived at the current state though they know the algorithm that runs. This is more like how individuals think. But if you ask a human it will give you a reason or explanation for what he did. Unless we have some mechanism to figure out. Logs? I don't know! Something. Well this is a serious issue. Think about robots performing surgeries and other important functions. Their mistakes can be fatal. We might need proper explanation. Say a driverless car runs over someone or meets with an accident. How will we justify it.
 
-image:http://cdn.onlinewebfonts.com/svg/img_550759.png[]
+image:https://image.flaticon.com/sprites/new_packs/653742-artificial-intelligence.png[]
 
  image: taken from onlinewebfonts.com | Do visit their website for a hell lot of awesome fonts.. :)
 
