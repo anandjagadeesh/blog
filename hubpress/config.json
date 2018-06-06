@@ -10,6 +10,7 @@
     "logo": "https://raw.githubusercontent.com/anandjagadeesh/website_backup/master/SITE/img/Semicolon.jpg",
     "cover": "https://raw.githubusercontent.com/anandjagadeesh/website_backup/master/SITE/img/intro-bg.jpg",
     "postsPerPage": "500",
+    "googleAnalytics": "UA-120432498-1",
     "disqus": "anandblog"
   },
   "socialnetwork": {
