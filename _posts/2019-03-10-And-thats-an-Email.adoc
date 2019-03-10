@@ -1,6 +1,9 @@
 = And that's an Email!
 Writing an email is an important part of my career as a software engineer. I write at least 10 emails daily, on various topics or discussions or just simple wish for a birthday. Email etiquette plays a major role in making an impact with what you say in an email. I have come across a lot of emails from people, especially students regarding job opportunities in my company. I am forced to write about this for the very same reason.
 
+image:https://raw.githubusercontent.com/anandjagadeesh/blog/gh-pages/images/aerial-blog-blogger-990819.jpg[]
+Photo by https://www.rawpixel.com from https://www.pexels.com
+
 Emails, when sent to a person for the first time should make an impression and I do believe it can be bad or good based on how you write an email. Email is a sort of communication where your emotions are not easy to be conveyed. So I believe it is hard to convey things to people as it lacks the emotional factor. So we should take some caution while writing an email. A simple use of "Can you do this ..." can offend people while "Could you please help me with this ..." seems polite. Recently I received some emails from students and I believe as a job seeker, your emails should be of good quality to get noticed, considered and processed. May be some of the following points can help
 
 ====== 1) Having a good email address
