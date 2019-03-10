@@ -1,0 +1,16 @@
+= And that's an Email!
+
+Writing an email is an important part of my career as a software engineer. I write at least 10 emails daily, on various topics or discussions or just simple wish for a birthday. Email etiquette plays a major role in making an impact with what you say in an email. I have come across a lot of emails from people, especially students regarding job opportunities in my company. I am forced to write about this for the very same reason.
+
+Emails, when sent to a person for the first time should make an impression and I do believe it can be bad or good based on how you write an email. Email is a sort of communication where your emotions are not easy to be conveyed. So I believe it is hard to convey things to people as it lacks the emotional factor. So we should take some caution while writing an email. A simple use of "Can you do this ..." can offend people while "Could you please help me with this ..." seems polite. Recently I received some emails from students and I believe as a job seeker, your emails should be of good quality to get noticed, considered and processed. May be some of the following points can help
+
+====== 1) Having a good email address
+This can be a very interesting factor. When choosing an email address, try choosing one:
+- Without your pet names, like what your friends or parents call you. For example kichu.chakkara@abc.xyz doesn't sound so good. And you are supposed to be remembered by your actual name and when an HR or something searches for your name, say Krishna in their inbox, kichu.chakkara may not pop up and it will be very irritating for them.
+- Without cute or rocking words as a part of the email address. For example kichu.rocks or kichuz.choco might sound a bit weird. Try keeping it more formal.
+- Without your local words as a part of your email address. This might cause problems for people who are not familiar with local terms/names. It may lead to problems like mis-spelt or wrong email addresses that lead to bouncing of emails as well as disclosure of confidential data to an untrusted or unknown third party.
+- Without any institution names. I created and used the email address anandj.fisat@gmail.com for a long time when I was in college but only to discover later that how foolish I was as after graduation sending emails from that address sounded unprofessional and awkward at times. So never tie your email addresses with any institution names.
+- Always create email addresses on trusted domains and those that will not be discarded or lost. For example if you have an email address on your college domain that might get discarded after your graduation, using it for job applications and professional websites and professional networking is foolishness.
+- With your formal/official name. Try to use your official name in mail addresses. If one mail system doesn't provide your name, try a different one or get your own domain. Like, I used to struggle a lot to get an email address as my name is very common. So I bought my own domain, a cheap one of course, and got my mail address as mail@anandj.xyz or contact@anandj.xyz
+
+====== 2)
