@@ -1,11 +1,11 @@
 = And that's an Email!
-
 Writing an email is an important part of my career as a software engineer. I write at least 10 emails daily, on various topics or discussions or just simple wish for a birthday. Email etiquette plays a major role in making an impact with what you say in an email. I have come across a lot of emails from people, especially students regarding job opportunities in my company. I am forced to write about this for the very same reason.
 
 Emails, when sent to a person for the first time should make an impression and I do believe it can be bad or good based on how you write an email. Email is a sort of communication where your emotions are not easy to be conveyed. So I believe it is hard to convey things to people as it lacks the emotional factor. So we should take some caution while writing an email. A simple use of "Can you do this ..." can offend people while "Could you please help me with this ..." seems polite. Recently I received some emails from students and I believe as a job seeker, your emails should be of good quality to get noticed, considered and processed. May be some of the following points can help
 
 ====== 1) Having a good email address
 This can be a very interesting factor. When choosing an email address, try choosing one:
+
 - Without your pet names, like what your friends or parents call you. For example kichu.chakkara@abc.xyz doesn't sound so good. And you are supposed to be remembered by your actual name and when an HR or something searches for your name, say Krishna in their inbox, kichu.chakkara may not pop up and it will be very irritating for them.
 - Without cute or rocking words as a part of the email address. For example kichu.rocks or kichuz.choco might sound a bit weird. Try keeping it more formal.
 - Without your local words as a part of your email address. This might cause problems for people who are not familiar with local terms/names. It may lead to problems like mis-spelt or wrong email addresses that lead to bouncing of emails as well as disclosure of confidential data to an untrusted or unknown third party.
@@ -13,4 +13,43 @@ This can be a very interesting factor. When choosing an email address, try choos
 - Always create email addresses on trusted domains and those that will not be discarded or lost. For example if you have an email address on your college domain that might get discarded after your graduation, using it for job applications and professional websites and professional networking is foolishness.
 - With your formal/official name. Try to use your official name in mail addresses. If one mail system doesn't provide your name, try a different one or get your own domain. Like, I used to struggle a lot to get an email address as my name is very common. So I bought my own domain, a cheap one of course, and got my mail address as mail@anandj.xyz or contact@anandj.xyz
 
-====== 2)
+====== 2) Having a good subject line
+You can have a good subject line for your email. This will enable two things: 1) Easiness in searching the email later and 2) grabbing the attention and making the receiver interested in the content.
+
+I've received job applications with just the word "Resume" in the subject line and nothing else. Like, resume what? I should resume doing something? This sounds too weird for me. If you are writing an email, the subject line should be clear. "Application for the post of YYYYYY" or "Regarding job opening YYYYYYY" would catch the attention and help the receiver understand what is in the email and process it or forward it to the right person who should process it. Putting tags should also work in some cases, like, *[Job Application]*.
+
+But the point is to have a good subject line. But don't write the full email in the subject line!
+
+====== 3) Writing a proper body of the email
+This is very important. A good email should be simple and elegant but explain everything and contains all required and relevant information. They shouldn't be too long. If you have to give detailed explanations for something, mention them in a short paragraph in the email, put the long explanation in a document or PDF file and attach it or put it in a sharing space and put the link and mention "Refer the following document/link for detailed explanation".
+
+Start the email with a proper salutation. If you know the person by his name, you can put "Dear Mr./Ms. XYZ" or just the name as "Dear XYZ". If you don't know the person but just the designation, put that, like, "Dear HR Relations Partner". If that also is not available, put Sir or Madam and if you don't know the gender, put Sir/Madam. You can put "Hope you are doing good" or "Greetings" or "Good day to you", etc. after that. This shows some kind of intimacy or respect.
+
+After this, write what you want to convey in a short but very informational manner. Start with why you are writing this email. Putting a reference to any previous emails and date of the email would be good as it will refresh the reader's memory with what has happened before. Then in maximum 2-3 short paragraphs, express the content.
+
+In the end, put a closure like, "Eagerly waiting for a response from you" or something similar and put "Thank you,", "Thanks,", "Thanks and regards,", "Thanking you, Yours sincerely", "Yours sincerely", etc. I would suggest not to put it in signatures if you use automatic signatures as you may want to customize this for each receiver at times.
+
+====== 4) Attachments
+You may have to attach some files to the email such as pictures/videos or documents like resumes and cover letters for resumes. There are some things I would suggest:
+
+- Attachments should be properly named. For example, if you are sending a prototype PPT for a project XXYYZZ put the name as Prototype_Project_XXYYZZ or Project_XXYYZZ_Prototype.
+- The size of the attachment. I advise to keep the attachment sizes as low as possible. Some mail servers might keep restrictions on attachments like, maximum 5MB to maximum 25MB, etc.
+- The format of the documents. Make sure the format of the document is something that the receiver will have a program to open with. I would prefer receiving most documents that needs only reading and are final versions as PDFs. Sending Resumes and Covering Letters and other finalized documents in PDF ensures the formatting stays in place. Like some people told me, you change a space in a word document you received over email, 3 paragraphs shift, 5 paragraphs deletes, computer hangs up, nuclear reactors blast, tsunamis occur and the earth gets destroyed by aliens and the universe sinks into a blackhole.
+- Attach only the relevant documents or the documents they have asked for and remove any attachments from the thread that are no longer needed in the newer emails.
+- Ensure the attachments are attached before hitting the send button.
+
+====== 5) A grammar check can save lives
+Make sure the spelling and grammar is correct. You can do it in many different ways. Make someone review it, use a spell checker or improve your language, to name a few. I haven't done a spell check on this article. If you spot anything, ping me personally. Will correct it and mention your contribution.
+
+
+---
+
+And that is the end of this email story-telling post. I hope you got some idea from my thoughts and you will consider some of them. Please write your comments below or mail your comments directly to me at mail@anandj.xyz
+
+I am a story teller and looks forward to interact with students on preparing for interviews, learning computer science subjects, technical sessions on Python and Git and how to be a good computer science student as well as some managerial topics like talking to people and public speaking. If you want to know more connect with me through email at mail@anandj.xyz or through my website https://www.anandj.xyz
+
+Thank you! You are an awesome listener!
+
+----
+"Life never cease to inspire the ones who decides to not to give up!" - AJ (yeah, that's me only) :D
+
